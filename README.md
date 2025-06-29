@@ -1,3 +1,3 @@
 # demo
 <br>
-Author - Anandhu-Ajayakumar
+Authored by Anandhu-Ajayakumar
